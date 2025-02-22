@@ -17,7 +17,7 @@ We use the **Medical Cost Personal Datasets** from Kaggle, which contains:
 
 - Age, BMI, Number of Children
 - Gender, Smoker Status, Region
-- Medical Insurance Charges (Target Variable)
+- Medical Insurance Charges
 
 ## 📈 Results & Insights
 
@@ -41,14 +41,8 @@ git clone https://github.com/erenakel/medical-insurance-cost-prediction.git
 cd medical-insurance-cost-prediction
 
 # Open Jupyter Notebook
-jupyter notebook enhanced-medical-costs-analysis.ipynb
+jupyter notebook us-medical-insurance-costs.ipynb
 ```
-
-## 🎯 Next Steps
-
-- 🔧 Fine-tune hyperparameters for even better predictions.
-- 🌐 Deploy the model as a **Streamlit web app** for real-time predictions.
-- 📢 Share insights on **Kaggle/GitHub** for feedback!
 
 ## 📢 Contributing
 
