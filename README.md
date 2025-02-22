@@ -29,7 +29,7 @@ We use the **Medical Cost Personal Datasets** from Kaggle, which contains:
 
 - **Python**: `pandas`, `numpy`, `seaborn`, `matplotlib`
 - **Machine Learning**: `scikit-learn` (Random Forest, Linear Regression)
-- **Jupyter Notebook** for analysis
+- **Jupyter Notebook** on PyCharm for analysis
 
 ## 🏗️ How to Use
 
@@ -37,7 +37,7 @@ Clone the repository and run the notebook:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/medical-insurance-cost-prediction.git
+git clone https://github.com/erenakel/medical-insurance-cost-prediction.git
 cd medical-insurance-cost-prediction
 
 # Open Jupyter Notebook
@@ -54,5 +54,5 @@ jupyter notebook enhanced-medical-costs-analysis.ipynb
 
 Feel free to fork the repo and submit a pull request with improvements!
 
-📩 **Let's connect!** Reach out via [GitHub](https://github.com/your-username) if you have questions or suggestions!
+📩 **Let's connect!** Reach out via [GitHub](https://github.com/erenakel) if you have questions or suggestions!
 
