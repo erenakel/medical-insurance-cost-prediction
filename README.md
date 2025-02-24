@@ -25,7 +25,7 @@ We use the **Medical Cost Personal Datasets** from Kaggle, which contains:
 High BMI is only impactful **when combined with smoking**\
 **Random Forest performed better than Linear Regression**, achieving **lower error and higher accuracy**
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python**: `pandas`, `numpy`, `seaborn`, `matplotlib`
 - **Machine Learning**: `scikit-learn` (Random Forest, Linear Regression)
